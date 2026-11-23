@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🚀 Cinema Booking Ticket System
-**Deskripsi singkat dan menarik tentang proyek ini (misal: Aplikasi web untuk mempermudah manajemen tugas harian tim).**
+**An app made for efficient ways to book ticket through electronic booking, turning conventional booking into online method.**
 
 [![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)]()
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)]()
