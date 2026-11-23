@@ -11,17 +11,7 @@
 
 ---
 
-## 📖 Tentang Proyek
-Tuliskan penjelasan lebih detail mengenai latar belakang proyek, tujuan dibuatnya aplikasi/sistem ini, atau masalah apa yang ingin diselesaikan. 
-
-### ✨ Fitur Utama
-* **Fitur 1:** Penjelasan singkat fitur pertama.
-* **Fitur 2:** Penjelasan singkat fitur kedua.
-* **Fitur 3:** Penjelasan singkat fitur ketiga.
-
----
-
-## 👥 Anggota Tim
+## 👥 Team Member
 Berikut adalah daftar anggota tim yang berkontribusi dalam pengembangan proyek ini:
 
 <div align="center">
